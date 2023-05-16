@@ -22,3 +22,4 @@ file structure
   ----Add.jsx
   ----Add.scss
   
+yarn run dev
